@@ -37,7 +37,7 @@ HALT
 2. Run the simulator:
 
 ```bash
-python simulator.py
+python main.py
 ```
 
 3. The program will execute the instructions sequentially and display the state of registers after each step.
